@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManagementAPI", "StudentManagementAPI\StudentManagementAPI.csproj", "{79B5DAE5-8B97-40F0-8AE4-2A909E6C81A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagementAPI.Tests", "StudentManagementAPI.Tests\StudentManagementAPI.Tests.csproj", "{DCC5F91F-7D3C-4958-9274-A8407B226216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79B5DAE5-8B97-40F0-8AE4-2A909E6C81A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B5DAE5-8B97-40F0-8AE4-2A909E6C81A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B5DAE5-8B97-40F0-8AE4-2A909E6C81A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B5DAE5-8B97-40F0-8AE4-2A909E6C81A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC5F91F-7D3C-4958-9274-A8407B226216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC5F91F-7D3C-4958-9274-A8407B226216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC5F91F-7D3C-4958-9274-A8407B226216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC5F91F-7D3C-4958-9274-A8407B226216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02A7A415-D551-4DE5-A98D-BFF62210F533}
+	EndGlobalSection
+EndGlobal
